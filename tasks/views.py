@@ -1,5 +1,5 @@
 from rest_framework.generics import (
-    ListCreateAPIView, ListAPIView, UpdateAPIView
+    ListCreateAPIView, ListAPIView, UpdateAPIView,
 )
 
 from rest_framework.permissions import (
